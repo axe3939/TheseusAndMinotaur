@@ -10,7 +10,7 @@ namespace TheseusAndMinotaur
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("I have changed this");
+            Console.WriteLine("Welcome to Theseus and Minotaur");
             Console.ReadLine();
 
         }
