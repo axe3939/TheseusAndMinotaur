@@ -10,10 +10,9 @@ namespace TheseusAndMinotaur
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("I am Theseus");
+            Console.WriteLine("I have changed this");
             Console.ReadLine();
-            Console.WriteLine("I am Minotaur");
-            Console.ReadLine();
+
         }
     }
 }
